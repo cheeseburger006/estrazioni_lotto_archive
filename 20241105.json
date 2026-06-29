@@ -1,0 +1,137 @@
+{
+    "data": "20241105",
+    "estrazione": [
+        {
+            "ruota": "BA",
+            "ruotaExtended": "BARI",
+            "numeri": [
+                55,
+                75,
+                69,
+                1,
+                79
+            ],
+            "numeroOro": 79
+        },
+        {
+            "ruota": "CA",
+            "ruotaExtended": "CAGLIARI",
+            "numeri": [
+                79,
+                35,
+                78,
+                7,
+                33
+            ],
+            "numeroOro": 33
+        },
+        {
+            "ruota": "FI",
+            "ruotaExtended": "FIRENZE",
+            "numeri": [
+                6,
+                27,
+                51,
+                59,
+                21
+            ],
+            "numeroOro": 21
+        },
+        {
+            "ruota": "GE",
+            "ruotaExtended": "GENOVA",
+            "numeri": [
+                76,
+                46,
+                30,
+                4,
+                73
+            ],
+            "numeroOro": 73
+        },
+        {
+            "ruota": "MI",
+            "ruotaExtended": "MILANO",
+            "numeri": [
+                87,
+                58,
+                63,
+                54,
+                71
+            ],
+            "numeroOro": 71
+        },
+        {
+            "ruota": "NA",
+            "ruotaExtended": "NAPOLI",
+            "numeri": [
+                51,
+                76,
+                23,
+                63,
+                30
+            ],
+            "numeroOro": 30
+        },
+        {
+            "ruota": "PA",
+            "ruotaExtended": "PALERMO",
+            "numeri": [
+                45,
+                67,
+                33,
+                70,
+                11
+            ],
+            "numeroOro": 11
+        },
+        {
+            "ruota": "RM",
+            "ruotaExtended": "ROMA",
+            "numeri": [
+                40,
+                2,
+                54,
+                24,
+                22
+            ],
+            "numeroOro": 22
+        },
+        {
+            "ruota": "TO",
+            "ruotaExtended": "TORINO",
+            "numeri": [
+                57,
+                79,
+                38,
+                35,
+                16
+            ],
+            "numeroOro": 16
+        },
+        {
+            "ruota": "VE",
+            "ruotaExtended": "VENEZIA",
+            "numeri": [
+                36,
+                33,
+                14,
+                82,
+                7
+            ],
+            "numeroOro": 7
+        },
+        {
+            "ruota": "RN",
+            "ruotaExtended": "NAZIONALE",
+            "numeri": [
+                79,
+                35,
+                4,
+                57,
+                51
+            ],
+            "numeroOro": 51
+        }
+    ]
+}
